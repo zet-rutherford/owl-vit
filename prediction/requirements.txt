@@ -1,0 +1,14 @@
+transformers
+requests
+addict
+yapf
+timm
+numpy
+opencv-python
+supervision
+pycocotools
+requests
+pandas
+Cython
+cython_bbox
+python-dotenv==1.0.0
